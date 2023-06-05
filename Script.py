@@ -26,7 +26,7 @@ class script(object):
 
 𝖣𝗈𝗇𝗍 𝖲𝗉𝖺𝗆 𝖬𝖾...🤒
 
-😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @piroxbots"""
+😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @Ellisa_movies_hub"""
 
     ABOUT_TXT = """<b>○ 𝖬𝗒 𝖭𝖺𝗆𝖾: {}
 ○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/Ellisa_support'>𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>
